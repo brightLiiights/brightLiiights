@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brightLiiights
-- 👀 I’m interested in anything/ everything IT. :)
+- 👀 I’m interested in anything/ everything IT/ Computer Science/ Programming. :)
 - 🌱 I’m currently learning C#, Azure, Git/ Github, and APIs.
 - 💞️ I’m looking to collaborate on anything. ;)
 - 📫 How to reach me.. feel free to email me @ alejandro@alejandrosanchez.tech with any questions, suggestions, or promotions.
